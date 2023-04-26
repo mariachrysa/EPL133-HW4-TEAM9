@@ -1,0 +1,50 @@
+Result of  Q1 by the program is covert and the correct answer is covert
+Result of  Q2 by the program is fatal and the correct answer is fatal
+Result of  Q3 by the program is nemesis and the correct answer is flexible
+Result of  Q4 by the program is dog and the correct answer is cat
+Result of  Q5 by the program is responsibility and the correct answer is responsibility
+Result of  Q6 by the program is serious and the correct answer is serious
+Result of  Q7 by the program is kill and the correct answer is kill
+Result of  Q8 by the program is photo and the correct answer is photo
+Result of  Q9 by the program is amused and the correct answer is annoyed
+Result of  Q10 by the program is complicated and the correct answer is complicated
+Result of  Q11 by the program is mess and the correct answer is clean
+Result of  Q12 by the program is young and the correct answer is young
+Result of  Q13 by the program is believable and the correct answer is believable
+Result of  Q14 by the program is beat and the correct answer is beat
+Result of  Q15 by the program is crying and the correct answer is crying
+Result of  Q16 by the program is alone and the correct answer is alone
+Result of  Q17 by the program is keen and the correct answer is keen
+Result of  Q18 by the program is robber and the correct answer is robber
+Result of  Q19 by the program is art and the correct answer is art
+Result of  Q20 by the program is walk and the correct answer is walk
+Result of  Q21 by the program is talk and the correct answer is talk
+Result of  Q22 by the program is sit and the correct answer is start
+Result of  Q23 by the program is journey and the correct answer is journey
+Result of  Q24 by the program is chair and the correct answer is chair
+Result of  Q25 by the program is regard and the correct answer is hate
+Result of  Q26 by the program is real and the correct answer is real
+Result of  Q27 by the program is society and the correct answer is society
+Result of  Q28 by the program is whisper and the correct answer is yell
+Result of  Q29 by the program is destroy and the correct answer is destroy
+Result of  Q30 by the program is optimistic and the correct answer is optimistic
+Result of  Q31 by the program is sit and the correct answer is jump
+Result of  Q32 by the program is explore and the correct answer is avoid
+Result of  Q33 by the program is walk and the correct answer is violate
+Result of  Q34 by the program is accusation and the correct answer is accusation
+Result of  Q35 by the program is reddish and the correct answer is wrinkled
+Result of  Q36 by the program is danger and the correct answer is danger
+Result of  Q37 by the program is mistake and the correct answer is mistake
+Result of  Q38 by the program is fat and the correct answer is slim
+Result of  Q39 by the program is colorful and the correct answer is quiet
+Result of  Q40 by the program is smart and the correct answer is smart
+Result of  Q41 by the program is path and the correct answer is path
+Result of  Q42 by the program is cruel and the correct answer is cruel
+Result of  Q43 by the program is fire and the correct answer is fire
+Result of  Q44 by the program is last and the correct answer is last
+Result of  Q45 by the program is tree and the correct answer is tree
+Total questions: 45
+Correct answers: 32
+Success rate: 71.11111111111111% 
+
+Our programme learned 194379 different words.
